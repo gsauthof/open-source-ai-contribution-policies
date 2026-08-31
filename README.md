@@ -213,6 +213,7 @@ Project | Policy link | AI/LLMs allowed? | Disclosure required? | Policy include
 - [musl-libc](https://musl.libc.org/): [Tentative policy](https://www.openwall.com/lists/musl/2024/10/19/3)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs): [How do we deal with AI-generated issues? #410741](https://github.com/NixOS/nixpkgs/issues/410741)
 - [Perl](https://www.perl.org/): [An LLM policy](https://perl.topicbox.com/groups/perl-core/Tded84d01cb16966e-M4f2b94e0c07f9d7cb8e1e76b/an-llm-policy)
+- [Changes to Sourcehut Terms of Service regarding LLMs](https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/)
 
 ## Other references
 
